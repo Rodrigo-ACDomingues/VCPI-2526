@@ -1,2 +1,8 @@
 test_images/
 train_images/
+train_augmented/
+train_augmented_all/
+train_augmented_colorJitter/
+train_augmented_gaussianBlur/
+train_augmented_randomAffine/
+train_augmented_randomErasing/
