@@ -6,6 +6,3 @@ train_augmented_colorJitter/
 train_augmented_gaussianBlur/
 train_augmented_randomAffine/
 train_augmented_randomErasing/
-test_data_aug_types/
-test_experiments/
-test_models/
